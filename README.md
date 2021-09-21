@@ -7,3 +7,6 @@ Tentado enviar para o repositorio remoto
 
 
 Tenho mais uma alteraçao
+
+Trazendo do repositorio remoto main
+Deletei tambeim o branch master
